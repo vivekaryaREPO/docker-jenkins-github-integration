@@ -8,6 +8,7 @@ class DockerJenkinsGithubIntegrationApplicationTests {
 
 	@Test
 	void contextLoads() {
+		System.out.println("Integration test after the 2nd commit");
 	}
 
 }
